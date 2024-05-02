@@ -18,7 +18,7 @@
 
 | 应用图标 | 应用名称 | 是否开源 | 开源地址 |开发者 | 详情  | 下载  |
 | --- | --- | --- | --- | --- | --- | --- |
-| (app-a-icon.png) | 无界投屏 | 不开源   | xx | 梦魇兽 | [详情](https://nightmare.press/) | [下载](https://nightmare.press/) |
+| ([app-a-icon.png](https://nightmare.press/img/REMOTE.png)) | 无界投屏 | 不开源   | xx | 梦魇兽 | [详情](https://nightmare.press/) | [下载](https://nightmare.press/) |
 | (app-c-icon.png) | 应用C | 是   | [GitHub](https://github.com/app-c) | 未知 | [详情](#) | [下载](#) |
 
 * * *
