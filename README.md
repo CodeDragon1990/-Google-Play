@@ -16,11 +16,10 @@
 
 ## 应用商店
 
-| 应用图标 | 应用名称 | 是否开源 | 开源地址 | 详情  | 下载  |
-| --- | --- | --- | --- | --- | --- |
-| (app-a-icon.png) | 应用A | 是   | [GitHub](https://github.com/app-a) | [详情](#) | [下载](#) |
-| (app-b-icon.png) | 应用B | 否   | 无   | [详情](#) | [前往官网](https://app-b.com) |
-| (app-c-icon.png) | 应用C | 是   | [GitHub](https://github.com/app-c) | [详情](#) | [下载](#) |
+| 应用图标 | 应用名称 | 是否开源 | 开源地址 |开发者 | 详情  | 下载  |
+| --- | --- | --- | --- | --- | --- | --- |
+| (app-a-icon.png) | 应用A | 是   | [GitHub](https://github.com/app-a) | 某君 | [详情](#) | [下载](#) |
+| (app-c-icon.png) | 应用C | 是   | [GitHub](https://github.com/app-c) | 未知 | [详情](#) | [下载](#) |
 
 * * *
 
